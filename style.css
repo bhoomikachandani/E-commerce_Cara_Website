@@ -709,7 +709,7 @@ footer .copyright{
 
 /* About Page */
 #page-header.about-header{
-    background-image: url("banner_img/ab.png");
+    background-image: url("images/banner/ab.jpg");
 }
 
 #about-head{
@@ -963,17 +963,6 @@ footer .copyright{
     padding: 10px;
     font-size: 13px;
 }
-
-
-
-
-
-
-
-
-
-
-
 
 /* Media Query */
 
